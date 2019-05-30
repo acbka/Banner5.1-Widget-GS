@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: block;
+    owerflow: hidden;
+    position: relative;
+    height: 90px;
+    width: 728px;
+}
+.fix{
+    position: absolute;
+}
